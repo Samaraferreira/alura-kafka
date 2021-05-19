@@ -1,6 +1,5 @@
 package br.com.alura.ecommerce;
 
-import java.util.HashMap;
 import java.util.Map;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 
